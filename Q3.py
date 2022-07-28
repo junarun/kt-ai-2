@@ -11,3 +11,4 @@ def solution(left, right):
 left, right = map(int, input().split())
 c = solution(left, right)
 print(c)
+print(c)
